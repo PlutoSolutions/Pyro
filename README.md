@@ -21,8 +21,9 @@ GiantNuker worked on the client's security for 1.5+ years, but because it had so
 </div>
 
 1. Download pyrocrack.jar from the [releases page](https://github.com/PlutoSolutions/Pyro/releases)
-0. Put it into your .minecraft/mods folder
-0. Start the game
+2. Put it into your .minecraft/mods folder
+3. If You used Pyro 1.4.1, Delete the config folder (.minecraft/Pyro.), Or the game will crash.
+4. Start the game
 
 <div align="center">
 
