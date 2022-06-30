@@ -26,6 +26,8 @@ GiantNuker worked on the client's security for 1.5+ years, but because it had so
 
 <div align="center">
 
+If it crashes try deleting your previous Pyro config from 1.4.1 or before (if you have one) 
+
 # [ credits ]
 
 </div>
